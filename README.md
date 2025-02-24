@@ -11,17 +11,17 @@ The Indian General Election 2024 Power BI project aims to analyze and visualize 
 ## Key Features
 1. Election Results Analysis
 
-  * Visualization of total seats won by each party.
+    * Visualization of total seats won by each party.
 
-  * State-wise and constituency-wise election results.
+    * State-wise and constituency-wise election results.
 
-  * Vote share percentage and margins of victory.
+    * Vote share percentage and margins of victory.
 
 2. Voter Turnout Insights
 
-  * State-wise and constituency-wise voter turnout.
+    * State-wise and constituency-wise voter turnout.
 
-  * Comparison of turnout across different regions (urban vs. rural).
+    * Comparison of turnout across different regions (urban vs. rural).
 
-  * Identifying regions with highest and lowest participation.
+    * Identifying regions with highest and lowest participation.
 
