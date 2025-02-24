@@ -36,3 +36,15 @@ The Indian General Election 2024 Power BI project aims to analyze and visualize 
     * State and constituency-level election results displayed on an interactive map.
 
     * Filters for party, candidate, state, and constituency for customized analysis
+
+
+## How This Data Enhances Power BI Visuals
+✅ Bar/Column Charts → Party-wise seat distribution, voter turnout trends
+✅ Pie Charts → Vote share percentage per party
+✅ Geospatial Maps → Election results per state/constituency
+✅ KPI Cards → Total seats, voter turnout percentage, winning margin
+
+## Contact
+For any questions or suggestions, please contact:
+
+Aditya Singh: aaaaadityathakur16@gmail.com
