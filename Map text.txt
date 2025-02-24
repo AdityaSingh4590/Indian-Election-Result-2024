@@ -1,0 +1,14 @@
+Total Seats, Alliance with Majority Seats, NDA Seats and I.N.D.I.A. Seats by State
+
+Hover over a state to view the Total Seats, the Alliance with Majority Seats, NDA Seats, and I.N.D.I.A. Seats in the tooltip.
+Select State to Drill Down the insights.
+
+
+Winning Candidate and Winning Party by Constituency
+
+Hover over a specific constituency to view the State, Winning Candidate, Winning Party, Total Votes, and Winning Margin. Click on a state in the left chart to filter and display all constituency details
+
+
+State with the Maximum Seats won by either the NDA Alliance or the I.N.D.I.A. Alliance
+
+The Blue color represents states where I.N.D.I.A. Alliance won majority of seats out of total, while the Saffron color represents states where NDA Alliance won the majority of seats out of total.
