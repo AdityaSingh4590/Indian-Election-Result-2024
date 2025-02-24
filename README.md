@@ -25,3 +25,14 @@ The Indian General Election 2024 Power BI project aims to analyze and visualize 
 
     * Identifying regions with highest and lowest participation.
 
+3. Party & Candidate Performance Analysis
+
+    * Top-performing parties based on seat wins and vote share.
+
+    * Constituencies where major parties performed exceptionally well or poorly.
+
+4. Interactive Data Visualization & Mapping
+
+    * State and constituency-level election results displayed on an interactive map.
+
+    * Filters for party, candidate, state, and constituency for customized analysis
